@@ -9,3 +9,5 @@ Subscribe my YouTube Channel https://www.youtube.com/channel/UC1Hu0kEfFYR1075s6W
 Web CRUD Codeigneter 3, pure CSS design tanpa Bootstrap atau framework lain.
 
 Created by : Ardean Bima Saputra
+
+Untuk melihat demonya silahkan kunjungi http://bimacrudci.epizy.com/
