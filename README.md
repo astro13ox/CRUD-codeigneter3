@@ -11,3 +11,6 @@ Web CRUD Codeigneter 3, pure CSS design tanpa Bootstrap atau framework lain.
 Created by : Ardean Bima Saputra
 
 Untuk melihat demonya silahkan kunjungi http://bimacrudci.epizy.com/
+
+# Login : bimbox
+# pass  : admin
